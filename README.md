@@ -17,8 +17,8 @@ The web page is based on a 5-steps input-form and then, as last step, it shows t
 Additional information about the webservice can be found in the dedicated repository: https://github.com/edoBaldini/Rest-G-IoT-Calc-API
 
 
-:--------------------------:|:-------------------------------:
-![](/readme-images/home.png)|  ![](/readme-images/chart.png)
+![](/readme-images/home.png)
+![](/readme-images/chart.png)
 
 ## Installing	
 
