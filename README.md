@@ -1,6 +1,6 @@
 # (VUE) Green IoT impacts calculator
 
- <img src="/Users/edoardobaldiniicloud.com/Workspace/G-IoT-Web-Service/vue-g-iot-calc/readme-images/IotLandscape.pdf" alt="BootstrapVue" style="zoom:300%;" />
+ <img src="./readme-images/IotLandscape.pdf" alt="BootstrapVue" style="zoom:300%;" />
 
 Green IoT is defined as energy-efficient procedures adopted by IoT either to reduce the GHGE of existing applications or to reduce the impact of IoT itself. In the literature there are many strategies that allow to reduce the impact of these devices at each stage of their lifecycle but what is missing is a way to estimate how green an IoT solution is.
 
