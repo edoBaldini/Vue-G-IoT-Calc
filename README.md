@@ -56,7 +56,7 @@ to stop it:
 
 ## Build with
 
-- <a href="https://bootstrap-vue.js.org/">Bootstrap-Vue</a> <img src="/readme-images/BootstrapVue.png" width="200" height="200"/>
+- <a href="https://bootstrap-vue.js.org/">Bootstrap-Vue</a> <img src="/readme-images/BootstrapVue.png" width="100" height="100" alt="bootstrap-vue"/>
 - <a href="https://www.chartjs.org/">Chart.js</a><img src="/readme-images/chartjs-logo.svg" alt="chartjs-logo"/>
 - <a href="https://www.npmjs.com/package/vue-json-pretty">Json-pretty</a>
 - <a href="https://github.com/vue-generators/vue-form-generator">Vue-form-generator</a>
