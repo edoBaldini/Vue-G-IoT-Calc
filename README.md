@@ -4,17 +4,17 @@
  
 Green IoT is defined as energy-efficient procedures adopted by IoT either to reduce the GHGE of existing applications or to reduce the impact of IoT itself. In the literature there are many strategies that allow to reduce the impact of these devices at each stage of their lifecycle but what is missing is a way to estimate how green an IoT solution is.
 
-The model proposed in my thesis work is one of the first attempts to assess the energy required and waste produced by the devices employed in an IoT solution  focusing on outdoor application equipped with an energy harvesting solution.
+The model proposed in my thesis work is one of the first attempts to assess the energy required and waste produced by the devices employed in an IoT solution focused on outdoor application equipped with an energy harvesting solution.
 
 The following project represents the frontend of the web service developed as part of my master thesis work.
 
-The aim of the web service is to estimate the energy impact (expressed in MJ) and the waste impact (expressed in Kg) of the user's IoT solution. The service finally returns the ratio between the impacts of the evaluated solution and a greener one that is computed by the web service.
+The aim of the web service is to estimate the energy impact (expressed in MJ) and the waste impact (expressed in Kg) of the user's IoT solution. Finally, the service returns the ratio between the impacts of the evaluated solution and a greener one that is computed by the web service.
 
-In order to evaluate the impacts, the service needs some information about the user's IoT solution. For this purpose a simple and easy understanding frontend has been developed. 
+To evaluate the impacts, the service needs some information on the user's IoT solution. For this purpose a simple and easy understanding frontend has been developed. 
 
-The web page is based on a 5-steps input-form and then, as last step, it shows through graphs the impacts of the client solution and the comparison with the greenest one. 
+The web page is based on a 5-steps input-form and at the end, as a last step, it shows the impacts of the client solution and the comparison with the greenest one through the graphs.
 
-Additional information about the webservice can be found in the dedicated repository: https://github.com/edoBaldini/Rest-G-IoT-Calc-API
+Further information on the webservice is available in the dedicated repository: https://github.com/edoBaldini/Rest-G-IoT-Calc-API
 
 
 ![](/readme-images/home.png)
