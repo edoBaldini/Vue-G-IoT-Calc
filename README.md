@@ -56,8 +56,8 @@ to stop it:
 
 ## Build with
 
-- <a haref="https://bootstrap-vue.js.org/">Bootstrap-Vue</a> <img src="/Users/edoardobaldiniicloud.com/Workspace/G-IoT-Web-Service/vue-g-iot-calc/readme-images/BootstrapVue.png" alt="BootstrapVue" style="zoom:10%;" />
-- <a href="https://www.chartjs.org/">Chart.js</a><img src="/Users/edoardobaldiniicloud.com/Workspace/G-IoT-Web-Service/vue-g-iot-calc/readme-images/chartjs-logo.svg" alt="chartjs-logo" style="zoom:25%;" />
+- <a haref="https://bootstrap-vue.js.org/">Bootstrap-Vue</a> <img src="/readme-images/BootstrapVue.png" alt="BootstrapVue" style="zoom:10%;" />
+- <a href="https://www.chartjs.org/">Chart.js</a><img src="/readme-images/chartjs-logo.svg" alt="chartjs-logo" style="zoom:25%;" />
 - <a href="https://www.npmjs.com/package/vue-json-pretty">Json-pretty</a>
 - <a href="https://github.com/vue-generators/vue-form-generator">Vue-form-generator</a>
 - <a href="https://github.com/BinarCode/vue-form-wizard">Vue-form-wizard</a>
